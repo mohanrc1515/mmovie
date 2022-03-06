@@ -40,18 +40,18 @@ http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8
 http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8  
 
 
- #EXTINF:-1 tvg-id="1" tvg-logo="group-title="RASI Group",RASI TV
+ #EXTINF:-1tvg-logo="group-title="RASI Group",RASI TV
 http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="group-title="RASI Group",RASI TAMIL
+#EXTINF:-1 tvg-logo="group-title="RASI Group",RASI TAMIL
 http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="group-title="RASI Group",RASI MUSIC
+#EXTINF:-1 tvg-logo="group-title="RASI Group",RASI MUSIC
 http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="group-title="RASI Group",RASI MOVIES
+#EXTINF:-1 tvg-logo="group-title="RASI Group",RASI MOVIES
 http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="group-title="RASI Group",RASI HOLLYWOOD
+#EXTINF:-1 tvg-logo="group-title="RASI Group",RASI HOLLYWOOD
 http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="1" tvg-logo="group-title="RASI Group",RASI CLASSIC
+#EXTINF:-1 tvg-logo="group-title="RASI Group",RASI CLASSIC
 http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8 
 
 
@@ -224,7 +224,7 @@ http://51.79.158.179:1935/tirumalaitv/stream/mono.m3u8
 #EXTINF:-1 group-title="MMC",Krishna Media
 http://51.195.220.104/krishnamedia/krishnamedia/mono.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo=""group-title="MMC",Sevenstar
+#EXTINF:-1 tvg-logo=""group-title="MMC",Sevenstar
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo=""group-title="MMC",Sevenstarplus
-http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MMC",Sevenstarplus
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8 
