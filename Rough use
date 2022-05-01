@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1,Pada 2022 malym
+https://mohanrc2.herokuapp.com/dl/1436/Pada-2022-Malayalam-TRUE-WEB-DL-1080p-AVC.mkv
+
+#EXTINF:-1,sila nerangalil sila manithargal 
+https://mohanrc2.herokuapp.com/dl/1439/Sila_Nerangalil_Sila_Manidhargal_2022_Tamil_HQ_HDRip_720p_x264_DD%2B5.mkv
 
 
 #EXTINF:-1,KGF CHAPTER 2 THEATRE V3
@@ -147,19 +152,19 @@ https://mohanrc2.herokuapp.com/dl/1402/%40Team_HDT%20-%20Vilangu%20-%20S01E%2801
  
 
 
-#EXTINF:-1 group-title="RAMANY VS RAMANY 3",1
+#EXTINF:-1,RAMANY 1
 https://mohanrc2.herokuapp.com/dl/1366/Ramany_vs_Ramany_3_0_S01E01_Grahapravesham_1080p_AHA_WEB_DL_x264.mkv
 
-#EXTINF:-1 group-title="RAMANY VS RAMANY 3",2
+#EXTINF:-1,RAMANY 2
 https://mohanrc2.herokuapp.com/dl/1367/Ramany_vs_Ramany_3_0_S01E02_Masterly_Servants_1080p_AHA_WEB_DL_x264.mkv
 
-#EXTINF:-1 group-title="RAMANY VS RAMANY 3",3
+#EXTINF:-1,RAMANY 3
 https://mohanrc2.herokuapp.com/dl/1368/Ramany_vs_Ramany_3_0_S01E03_Adopted_Pet_1080p_AHA_WEB_DL_x264_Tamil.mkv
 
-#EXTINF:-1 group-title="RAMANY VS RAMANY 3",4
+#EXTINF:-1,RAMANY 4
 https://mohanrc2.herokuapp.com/dl/1369/Ramany_vs_Ramany_3_0_S01E04_Seven_Year_Itch_1080p_AHA_WEB_DL_x264.mkv
 
-#EXTINF:-1 group-title="RAMANY VS RAMANY 3",5
+#EXTINF:-1,RAMANY 5
 https://mohanrc2.herokuapp.com/dl/1370/Ramany_vs_Ramany_3_0_S01E05_Get_Well_Soon_1080p_AHA_WEB_DL_x264.mkv
 
 
