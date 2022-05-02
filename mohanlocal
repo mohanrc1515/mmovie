@@ -146,7 +146,24 @@ http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
 http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 
+#EXTINF:-1 group-title="NEWS",THANTHI https://andistores.online/yt/ytlive.m3u8?id=wc3Y6vI-poI 
 
+#EXTINF:-1 group-title="NEWS",PUTHIYA THALAIMURAI
+https://andistores.online/yt/ytlive.m3u8?id=bcVK4iNvLjY
+
+
+#EXTINF:-1 group-title="NEWS",POLIMER
+https://andistores.online/yt/ytlive.m3u8?id=7LvCANd8lug
+
+
+#EXTINF:-1 group-title="NEWS",NEWS 7
+https://andistores.online/yt/ytlive.m3u8?id=I0BMgmqQse8
+
+#EXTINF:-1 group-title="NEWS",NEWS 18
+https://andistores.online/yt/ytlive.m3u8?id=mQrZJFyYzlI
+
+#EXTINF:-1 group-title="NEWS",NEWS 24 7
+https://andistores.online/yt/ytlive.m3u8?id= T3RT-YNKDNQ
 #EXTINF:-1 group-title="MMC",Suriya tv
 http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
  #EXTINF:-1 group-title="MMC",udhayam
