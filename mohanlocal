@@ -13,7 +13,8 @@ https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
 
 
-
+#EXTINF:-1, star music
+https://utube.arapurayil.com/stream/UCd460WUL4835Jd7OCEKfUcA/master.m3u8
 
 
 
@@ -55,8 +56,7 @@ http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8
 #EXTINF:-1 group-title="Music and comedy",IBC ISAI(INTL)
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 
-#EXTINF:-1 group-title="Music and comedy",24 7 music only backup
-https://andistores.online/yt/ytlive.m3u8?id=fqmq1bOKwJI
+
 
 #EXTINF:-1 group-title="RASI Group",RASI TV
 http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
