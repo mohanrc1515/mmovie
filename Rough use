@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Beast HD
+https://mohanrc2.herokuapp.com/dl/3907/%5BMM%5D%20BEAST%20%282022%29%20Tamil%20HDRip%20-%201080p%20-%20HEVC-%20-ESub.mkv
+
 #EXTINF:-1,RRR HD 
 
 https://mohanrc2.herokuapp.com/dl/3896/%5BMM%5D%20RRR%20%282022%29%20Tamil%20HDRip%20-%201080p%20-%20HEVC-%20-ESub.mkv
@@ -79,9 +82,6 @@ https://mohanrc2.herokuapp.com/dl/1425/Bhama.Kalabam.Tamil.2022.1080p.AHA.WEB-DL
 
 https://mohanrc2.herokuapp.com/dl/1427/%5BMF%5D%20Kuttram.Kuttrame.2022.1080p.HDRip.HEVC.ESub.mkv
 
-#EXTINF:-1,Beast theatre
-
-https://mohanrc2.herokuapp.com/dl/1407/Beast_2022_Tamil_V3_Final_720p_Proper_HQ_Real_PreDVDRip_x264_AAC.mkv
 
 #EXTINF:-1, SELFIE
 https://mohanrc2.herokuapp.com/dl/1405/Selfie_2022_Tamil_TRUE_WEB_DL_1080p_HQ_HEVC_UNTOUCHED_DD%2B_5_1_192Kbps.mkv
