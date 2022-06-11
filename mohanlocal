@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Music and comedy",IBC Comedy
- https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 group-title="Music and comedy",mk six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
@@ -19,7 +19,7 @@ https://utube.arapurayil.com/stream/UCd460WUL4835Jd7OCEKfUcA/master.m3u8
 
 
 #EXTINF:-1 group-title="Music and comedy",Sana plus
-http://51.79.158.179:1935/live/sanatv2/mono.m3u8 
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8 
 
 #EXTINF:-1 group-title="Music and comedy",SD Media
 http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
