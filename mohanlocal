@@ -13,13 +13,13 @@ https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
 
 
-#EXTINF:-1, star music
-https://utube.arapurayil.com/stream/UCd460WUL4835Jd7OCEKfUcA/master.m3u8
-
 
 
 #EXTINF:-1 group-title="Music and comedy",Sana plus
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8 
+
+#EXTINF:-1 group-title="Music and comedy",KALAI isai
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
 
 #EXTINF:-1 group-title="Music and comedy",SD Media
 http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
@@ -41,12 +41,8 @@ http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8 
 
-#EXTINF:-1 group-title="Music and comedy",KALAI isai
-http://singamcloud.in:1935/kalai/kalaiisai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nz3JrNxx/sana.png"group-title="Music and comedy",Sana Plus 2
-http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1956626303.m3u8  
-
+ 
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif"group-title="Music and comedy",Capital Music
 http://89.187.162.89:80/Capital_Music/index.m3u8
 
