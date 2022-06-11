@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Music and comedy",IBC Comedy
- https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8 
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 group-title="Music and comedy",mk six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
