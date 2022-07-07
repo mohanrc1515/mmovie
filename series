@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Mahabharatham",1
+#EXTINF:-1 group-title="Mahabharatham",1 aspect ratio 
 https://mohanrc2.herokuapp.com/dl/4369/Mahabharatham%201.mp4
 
 #EXTINF:-1 group-title="Mahabharatham",2
@@ -2622,6 +2622,10 @@ https://mohanrc2.herokuapp.com/dl/5015/Ms_Marvel_S01E03_Destined_1080p_DSNP_WEB_
 
 #EXTINF:-1 group-title="Ms Marvel", S4
 https://mohanrc2.herokuapp.com/dl/5016/Ms_Marvel_S01E04_Seeing_Red_720p_DSNP_WEB_DL_x265_AAC_2_0_Tel_%2B.mkv
+
+#EXTINF:-1 group-title="Ms Marvel", S5
+https://mohanrc2.herokuapp.com/dl/8474/%40TamilMob_LinkZz_Ms_Marvel_S01E05_720p_DSNP_WEB_DL_DD%2B_5_1_192Kbps.mkv
+
 
 #EXTINF:-1 group-title="Hawkeye",1
 https://mohanrc2.herokuapp.com/dl/5341/%40EK_Hawkeye_2021_S01_EP01_TRUE_WEB_DL_720p_HEVC_x265_2_0_Tamil_%2B.mkv
