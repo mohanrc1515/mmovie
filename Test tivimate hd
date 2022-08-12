@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1,mha 1
+https://mohanrc2.herokuapp.com/dl/11354/%5BAMC%5D%20MHA%20S02E01%20%5B480p%5D%5BDual-Audio%5D.mkv
+
+
 
 #EXTINF:-1,1080
 https://mohanrc2.herokuapp.com/dl/10394/Hunter%20x%20Hunter%20%281%29.mkv
