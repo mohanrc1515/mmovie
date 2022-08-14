@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,school
+https://mohanrc2.herokuapp.com/dl/11635/12.%20School%20Days.mkv
+
+#EXTINF:-1,Fairy
+https://mohanrc2.herokuapp.com/dl/11637/Fairy%20Tail%20-%20001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+
+
+
 #EXTINF:-1,another
 https://mohanrc2.herokuapp.com/dl/11535/Another%20-%2003%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
