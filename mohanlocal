@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG18482.png" group-title="Tamil Cloud",IBC COMEDY
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music and comedy",IBC Comedy
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8 
@@ -42,6 +40,7 @@ http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
 
 #EXTINF:-1 group-title="Music and comedy",isai saaral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
 #EXTINF:-1 group-title="Music and comedy",QMAX
 http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 
@@ -56,7 +55,26 @@ http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8 
 
+#EXTINF:-1,group-title="Music and comedy", SKY TV
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,group-title="Music and comedy", VINAYAGA TV 
+http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", RIO TV 
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", DHARANI TV 
+http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", 7 HILLS TV 
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", ASHOKA TV 
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif"group-title="Music and comedy",Capital Music
 http://89.187.162.89:80/Capital_Music/index.m3u8
