@@ -7,6 +7,8 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Music and comedy",mk six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
+#EXTINF:-1,group-title="Music and comedy", siripoli
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 
 #EXTINF:-1 group-title="Music and comedy",Dan comedy low 
@@ -22,11 +24,14 @@ http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" group-title="Music and comedy",Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
+#EXTINF:-1 group-title="Music and comedy",Mk tunes
+
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8 
+
 #EXTINF:-1 group-title="Music and comedy",KALAI isai
 http://singamcloud.in/kalai/kalaiisai/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://singamcloud.com/tv/upload/1616319472_shalini max.png" group-title="Music and comedy",Shalini Max
-http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0034.jpg" group-title="Music and comedy",Acn music
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
@@ -34,15 +39,7 @@ http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MS LOGO.png" group-title="Music and comedy",Music star tv 
 http://198.144.149.82:8080/NOTV/MUSICSTARTV/index.m3u8?token=GTR
 
-#EXTINF:-1 group-title="Music and comedy",SD Media
-http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
 
-
-#EXTINF:-1 group-title="Music and comedy",isai saaral
-http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-
-#EXTINF:-1 group-title="Music and comedy",QMAX
-http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
 
 #EXTINF:-1 group-title="Music and comedy",MN MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -51,9 +48,8 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 group-title="Music and comedy",sr musix
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8 
 
-#EXTINF:-1 group-title="Music and comedy",Mk tunes
-
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8 
+#EXTINF:-1 group-title="Music and comedy",IBC ISAI(INTL)
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 
 #EXTINF:-1,group-title="Music and comedy", SKY TV
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
@@ -75,15 +71,27 @@ http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
 
 #EXTINF:-1,group-title="Music and comedy", ASHOKA TV 
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",SD Media
+http://51.79.158.179:1935/sd/sdmedia/mono.m3u8
+
+
+#EXTINF:-1 group-title="Music and comedy",isai saaral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",QMAX
+http://198.144.149.82:8080/NOTV/QMAX/index.m3u8?token=GTR
  
 #EXTINF:-1 tvg-logo="http://www.mycapitaltv.com/images/Musiclogo.gif"group-title="Music and comedy",Capital Music
 http://89.187.162.89:80/Capital_Music/index.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://singamcloud.com/tv/upload/1616319472_shalini max.png" group-title="Music and comedy",Shalini Max
+http://stream.singamcloud.in:1935/shalinimax/shalinimax/playlist.m3u8
+
 #EXTINF:-1 group-title="Music and comedy",Sachin Music
 http://51.79.207.150:1935/sachinmusichd/sachinmusichd/mono.m3u8 
 
-#EXTINF:-1 group-title="Music and comedy",IBC ISAI(INTL)
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
 
 #EXTINF:-1 group-title="IBC",comedy
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
