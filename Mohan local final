@@ -40,7 +40,9 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0034.jpg" group-title="Music and comedy",Acn music
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 
+#EXTINF:-1 group-title="Music and comedy",Star music
 
+https://utube.arapurayil.com/stream/UCd460WUL4835Jd7OCEKfUcA/master.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MS LOGO.png" group-title="Music and comedy",Music star tv 
 http://198.144.149.82:8080/NOTV/MUSICSTARTV/index.m3u8?token=GTR
@@ -72,6 +74,33 @@ http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
 
 #EXTINF:-1,group-title="Music and comedy", 7 HILLS TV 
 http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Shree Saravana mc
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Yatra
+http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Apple tv
+http://bmlive.net:8000/appletv/appletv/bms.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Ntv
+http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Music and comedy",Dan music
+https://askmedia.livebox.co.in/DanMusichls/2.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Sky tv
+http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Thendral
+https://iptelevision.in/hls/thendral.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Sun music
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+
+
+
 
 #EXTINF:-1,group-title="Music and comedy", ASHOKA TV 
 http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
@@ -213,7 +242,14 @@ http://bmlive.net:8000/gtv/gtv/bms.m3u8
 #EXTINF:-1 group-title="Movie",pc tv
 http://pctv.livebox.co.in/pctvhls/live.m3u8
 
+#EXTINF:-1 group-title="Movie",Adhvika movie
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
 
+#EXTINF:-1 group-title="Movie",SLS
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+
+#EXTINF:-1 group-title="Movie",Abinaya hd
+http://singamcloud.in/purpletv/purpletv/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News (பாலிமர் செய்திகள்)
 https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
