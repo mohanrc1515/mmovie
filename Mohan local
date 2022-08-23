@@ -1,0 +1,272 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Music and comedy",IBC Comedy
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 group-title="Music and comedy",mk six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", siripoli
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
+
+
+#EXTINF:-1 group-title="Music and comedy",Dan comedy low 
+https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Music and comedy",Sana plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG57807.png" group-title="Music and comedy",Isai Aruvi
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Mk tunes
+
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8 
+
+#EXTINF:-1,group-title="Music and comedy", SKY TV
+http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",KALAI isai
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",MN MUSIC
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG-20200724-WA0034.jpg" group-title="Music and comedy",Acn music
+http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://nammaoorutv.com/dashboard/upicons/MS LOGO.png" group-title="Music and comedy",Music star tv 
+http://198.144.149.82:8080/NOTV/MUSICSTARTV/index.m3u8?token=GTR
+
+
+
+
+
+
+#EXTINF:-1 group-title="Music and comedy",sr musix
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8 
+
+#EXTINF:-1 group-title="Music and comedy",IBC ISAI(INTL)
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+
+
+
+#EXTINF:-1,group-title="Music and comedy", VINAYAGA TV 
+http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", VINAYAGA MUSIC TV 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", RIO TV 
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", DHARANI TV 
+http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", 7 HILLS TV 
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+
+#EXTINF:-1,group-title="Music and comedy", ASHOKA TV 
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
+
+#EXTINF:-1 group-title="Music and comedy",Ram tv
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+
+#EXTINF:-1 group-title="IBC",comedy
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="IBC",Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="IBC",IBC
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="IBC",IBC CANADA
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="IBC",IBC SRILANKA
+https://tx1.ibctamil.tv/CDN_IBC_Srilanka/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RASI Group",RASI TV
+http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
+
+
+#EXTINF:-1 group-title="RASI Group",RASI Hollywood
+http://singamcloud.in/rasinetworks/rasihollywood/index.m3u8 
+
+
+#EXTINF:-1 group-title="RASI Group",RASI Movies
+http://singamcloud.in/rasinetworks/rasimovies/index.m3u8
+
+
+#EXTINF:-1 group-title="RASI Group",RASI Music
+http://singamcloud.in/rasinetworks/rasimusic/index.m3u8 
+
+
+
+#EXTINF:-1 group-title="RASI Group",RASI Tamil 
+http://singamcloud.in/rasinetworks/rasitamil/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Movie", AUS TAMIL low volume not24/7
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png"group-title="Movie",Mon Tamil TV
+http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
+
+#EXTINF:-1  tvg-logo="http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png"group-title="Movie",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png"group-title="Movie",Analai Express TV
+http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Movie", mullai tv
+http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
+
+#EXTINF:-1 group-title="Movie",Jawahar tv
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8 
+
+#EXTINF:-1 group-title="Movie",7Star TV
+http://51.79.158.179:1935/live/7star/mono.m3u8
+
+#EXTINF:-1 group-title="Movie",Hari TV
+http://51.79.158.179:1935/harimedia/haritv/mono.m3u8
+
+#EXTINF:-1  tvg-logo="http://7startv.in/aarishvfx_00082.png"group-title="Movie",Udhayam TV 
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie", SOORIYAN TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+
+#EXTINF:-1group-title="Movie",MP TV TAMIL(Local)
+http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8  
+
+#EXTINF:-1 group-title="Movie",silver sat
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png"group-title="Movie",POLIMER TV
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 group-title="Movie",3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png"group-title="Movie",ASHOKA TV
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="Movie",SANA TV hd
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="Movie",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="Movie",SS varma
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8 
+
+#EXTINF:-1 group-title="Movie",Suriya tv
+http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
+ #EXTINF:-1 group-title="Movie",udhayam
+http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
+#EXTINF:-1  tvg-logo="http://nammaoorutv.com/dashboard/upicons/Screenshot_20200908-234711~2.png"group-title="Movie",Tamilan tv
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Movie",utv
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8 
+#EXTINF:-1 group-title="Movie",Jayam
+http://103.147.60.4:1935/live/jayamtv/playlist.m3u8 
+
+
+
+#EXTINF:-1 group-title="Movie", phoenix 
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+
+
+#EXTINF:-1 group-title="Movie",kaushik
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Movie",Selfie
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+
+#EXTINF:-1 group-title="Movie",Ezhil
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+
+#EXTINF:-1 group-title="Movie",Gtv
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+
+#EXTINF:-1 group-title="Movie",pc tv
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News (பாலிமர் செய்திகள்)
+https://utube.arapurayil.com/stream/UC8Z-VjXBtDJTvq6aqkIskPg/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV (தந்தி டிவி)
+https://utube.arapurayil.com/stream/UC-JFyL0zDFOsPMpuWu39rPA/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", Puthiya Thalaimurai (புதிய தலைமுறை)
+https://utube.arapurayil.com/stream/UCmyKnNRH0wH-r8I-ceP-dsg/master.m3u8
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி)
+https://utube.arapurayil.com/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி)
+https://utube.arapurayil.com/stream/UC2f4w_ppqHplvjiNaoTAK9w/master.m3u8
+
+EXTINF:-1 group-title="NEWS" tvg-id=""tvg-name=""tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png,News18 TamilNadu
+ 
+https://utube.arapurayil.com/stream/UCat88i6_rELqI_prwvjspRA/master.m3u8
+
+
+#EXTINF:-1 group-title="NEWS" tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg",Kalaignar News
+https://utube.arapurayil.com/stream/UCcVF2Fth-qEA4T1Lhn3CgKg/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-id=""tvg-name=""tvg-logo="https://i.extraimages.net/images/2021/04/05/logo_login.png",NewsJ
+https://utube.arapurayil.com/stream/UCsfh2Zb7-m4qzT8jLhK_Fzw/master.m3u8
+
+
+
+#EXTINF:-1 group-title="NEWS",SUN NEWS
+https://utube.arapurayil.com/stream/UCYlh4lH762HvHt6mmiecyWQ/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png",Sathiyamtv
+
+https://utube.arapurayil.com/stream/UC2ziCMHFPWkFHjocUMXT__Q/master.m3u8
+
+
+#EXTINF:-1 group-title="NEWS", Captain news
+https://utube.arapurayil.com/stream/UCno6OgN7-NDmRTNBgqWevlw/master.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV backup
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
+
+
