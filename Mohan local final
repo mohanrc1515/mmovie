@@ -159,6 +159,9 @@ http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 http://142.44.213.115:8888/gta_tamil/index.m3u8
 
 
+#EXTINF:-1 group-title="Movie",Vaagai tv
+http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
+
 #EXTINF:-1  tvg-logo="https://analaiexpress.ca/wp-content/themes/aenew/assets/images/logo.png"group-title="Movie",Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 
