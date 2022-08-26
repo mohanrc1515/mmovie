@@ -168,6 +168,13 @@ http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Movie", mullai tv
 http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
 
+#EXTINF:-1 group-title="Movie",Ttn
+https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",Vasantham
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+
+
 #EXTINF:-1 group-title="Movie",Jawahar tv
 http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/chunklist_w1329828768.m3u8 
 
