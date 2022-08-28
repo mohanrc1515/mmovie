@@ -266,7 +266,14 @@ http://singamcloud.in/purpletv/purpletv/index.m3u8
 #EXTINF:-1 group-title="Movie",Astro vaanavil
 http://37.49.230.42:8080/live/F19401/10cbba5b/201163.ts
 
+#EXTINF:-1 group-title="Movie",Ttn
+https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie",Vasantham
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Movie",Thalapathy tv
+http://183.87.51.10/hls/thalapathyvjtv.m3u8
 
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News (பாலிமர் செய்திகள்)
@@ -282,14 +289,7 @@ https://utube.arapurayil.com/stream/UCmyKnNRH0wH-r8I-ceP-dsg/master.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி)
 https://utube.arapurayil.com/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
 
-#EXTINF:-1 group-title="Movie",Ttn
-https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie",Vasantham
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
-
-#EXTINF:-1 group-title="Movie",Thalapathy tv
-http://183.87.51.10/hls/thalapathyvjtv.m3u8
 
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி)
