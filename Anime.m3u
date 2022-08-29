@@ -1,7 +1,7 @@
   
 #EXTM3U
 
-#EXTINF:-1 group-title="Ben 10 ",S01 Ep 1 Tamil
+#EXTINF:-1 group-title="Ben 10 ",Ben 10 S01 Ep 1 Tamil
 https://mohanrc2.herokuapp.com/dl/6910/%5BCNT%5D%20Ben%2010%20Classic%20S1%20EP01%20%28Tamil%29.mp4.MP4
 
 #EXTINF:-1 group-title="Ben 10 ",S01 Ep 2
@@ -158,7 +158,7 @@ https://mohanrc2.herokuapp.com/dl/6989/%5BCNT%5D%20Ben%2010%20Classic%20S4%20EP1
 #EXTINF:-1 group-title="Ben 10 ",S04 Ep 13
 https://mohanrc2.herokuapp.com/dl/6990/%5BCNT%5D%20Ben%2010%20Classic%20S4%20EP13%20%28Tamil%29.mp4.MP4
 
-#EXTINF:-1 group-title="Ben 10 Alien force ",S01  Ep 1 Tamil
+#EXTINF:-1 group-title="Ben 10 Alien force ",BEn 10 alien force S01  Ep 1 Tamil
 https://mohanrc2.herokuapp.com/dl/6923/%5BCNT%5D%20Ben%2010%20Alien%20Force%20S1%20EP01%20%28Tamil%29.mp4.MP4
 
 #EXTINF:-1 group-title="Ben 10 Alien force ",S01  Ep 2
@@ -297,7 +297,7 @@ https://mohanrc2.herokuapp.com/dl/7009/%5BCNT%5D%20Ben%2010%20Alien%20Force%20S3
 #EXTINF:-1 group-title="Ben 10 Alien force ",S03  Ep 20
 https://mohanrc2.herokuapp.com/dl/7010/%5BCNT%5D%20Ben%2010%20Alien%20Force%20S3%20EP20%20%28Tamil%29.mp4.MP4
 
-#EXTINF:-1 group-title="Ben 10 ultimate",S01 Ep 1 Tamil
+#EXTINF:-1 group-title="Ben 10 ultimate",BEn 10 ultimate alien S01 Ep 1 Tamil
 https://mohanrc2.herokuapp.com/dl/7011/%5BCNT%5D%20Ben%2010%20Ultimate%20Alien%20S1%20EP01%20%28Tamil%29.mp4.MP4
 
 #EXTINF:-1 group-title="Ben 10 ultimate",S01 Ep 2
@@ -454,7 +454,7 @@ https://mohanrc2.herokuapp.com/dl/7061/%5BCNT%5D%20Ben%2010%20Ultimate%20Alien%2
 https://mohanrc2.herokuapp.com/dl/7062/%5BCNT%5D%20Ben%2010%20Ultimate%20Alien%20S3%20EP20%20%28Tamil%29.mp4.MP4
 
 
-#EXTINF:-1 group-title="Pokemon",S01 Ep 1
+#EXTINF:-1 group-title="Pokemon",Pokemon S01 Ep 1
 https://mohanrc2.herokuapp.com/dl/7969/Pokemon%20S01%20EP01.MP4
 
 #EXTINF:-1 group-title="Pokemon",S01 Ep 2
@@ -2722,7 +2722,7 @@ https://mohanrc2.herokuapp.com/dl/8157/Pokemon%20S15%20E48.m4v
 #EXTINF:-1 group-title="Pokemon",S15 Ep 49
 https://mohanrc2.herokuapp.com/dl/8158/Pokemon%20S15%20E49.m4v
 
-#EXTINF:-1 group-title="Jackie Chan",S01 single file tamil
+#EXTINF:-1 group-title="Jackie Chan",Jackie chan S01 single file tamil
 https://mohanrc2.herokuapp.com/dl/8325/Jackie%20Chan%20Adventures%20-%20Season%201%20NQ%20360p.mp4
 
 
@@ -3585,9 +3585,11 @@ https://mohanrc2.herokuapp.com/dl/1597/One%20Piece%20-%200050%20%5B720p%5D%20%5B
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 51 
 https://mohanrc2.herokuapp.com/dl/1598/One%20Piece%20-%200051%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 52 https://mohanrc2.herokuapp.com/dl/1599/One%20Piece%20-%200052%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 52 
+https://mohanrc2.herokuapp.com/dl/1599/One%20Piece%20-%200052%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 53https://mohanrc2.herokuapp.com/dl/1600/One%20Piece%20-%200053%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 53
+https://mohanrc2.herokuapp.com/dl/1600/One%20Piece%20-%200053%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 54 F
 https://mohanrc2.herokuapp.com/dl/1601/One%20Piece%20-%200054%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
@@ -3595,17 +3597,23 @@ https://mohanrc2.herokuapp.com/dl/1601/One%20Piece%20-%200054%20%5B720p%5D%20%5B
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 55 F
 https://mohanrc2.herokuapp.com/dl/1602/One%20Piece%20-%200055%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 56 F https://mohanrc2.herokuapp.com/dl/1603/One%20Piece%20-%200056%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 56 F 
+https://mohanrc2.herokuapp.com/dl/1603/One%20Piece%20-%200056%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 57 Fhttps://mohanrc2.herokuapp.com/dl/1604/One%20Piece%20-%200057%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 57 F
+https://mohanrc2.herokuapp.com/dl/1604/One%20Piece%20-%200057%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 58 Fhttps://mohanrc2.herokuapp.com/dl/1605/One%20Piece%20-%200058%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 58 F
+https://mohanrc2.herokuapp.com/dl/1605/One%20Piece%20-%200058%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 59 Fhttps://mohanrc2.herokuapp.com/dl/1606/One%20Piece%20-%200059%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 59 F
+https://mohanrc2.herokuapp.com/dl/1606/One%20Piece%20-%200059%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 60 Fhttps://mohanrc2.herokuapp.com/dl/1607/One%20Piece%20-%200060%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 60 F
+https://mohanrc2.herokuapp.com/dl/1607/One%20Piece%20-%200060%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 61 https://mohanrc2.herokuapp.com/dl/1608/One%20Piece%20-%200061%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 61 
+https://mohanrc2.herokuapp.com/dl/1608/One%20Piece%20-%200061%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 62
 https://mohanrc2.herokuapp.com/dl/1609/One%20Piece%20-%200062%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
@@ -3656,7 +3664,8 @@ https://mohanrc2.herokuapp.com/dl/1623/One%20Piece%20-%200076%20%5B720p%5D%20%5B
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 77 
 https://mohanrc2.herokuapp.com/dl/1624/One%20Piece%20-%200077%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 78 https://mohanrc2.herokuapp.com/dl/1625/One%20Piece%20-%200078%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 78 
+https://mohanrc2.herokuapp.com/dl/1625/One%20Piece%20-%200078%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 79
 https://mohanrc2.herokuapp.com/dl/1626/One%20Piece%20-%200079%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
@@ -4900,10 +4909,10 @@ https://mohanrc2.herokuapp.com/dl/2036/One%20Piece%20-%200490%20%5B720p%5D%20%5B
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 491 
 https://mohanrc2.herokuapp.com/dl/2037/One%20Piece%20-%200491%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 492 F
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 492 A F
 https://mohanrc2.herokuapp.com/dl/2038/One%20Piece%20-%200492A%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv 
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 492  F2
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 492 B F2
 
 https://mohanrc2.herokuapp.com/dl/2039/One%20Piece%20-%200492B%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv
 
@@ -6420,7 +6429,8 @@ https://mohanrc2.herokuapp.com/dl/2551/One%20Piece%20-%200993%20%5B720p%5D%20%5B
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 994
 https://mohanrc2.herokuapp.com/dl/2552/One%20Piece%20-%200994%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 995https://mohanrc2.herokuapp.com/dl/2553/One%20Piece%20-%200995%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv
+#EXTINF:-1 group-title="ONE PIECE",ONE PIECE 995
+https://mohanrc2.herokuapp.com/dl/2553/One%20Piece%20-%200995%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="ONE PIECE",ONE PIECE 996
 https://mohanrc2.herokuapp.com/dl/2554/One%20Piece%20-%200996%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv
@@ -8703,7 +8713,7 @@ https://mohanrc2.herokuapp.com/dl/6900/The%20Day%20Naruto%20Became%20Hokage%20%5
 
 
 
-#EXTINF:-1 group-title="Fullmetal alchemist B",1
+#EXTINF:-1 group-title="Fullmetal alchemist B",Fullmetal alchemist B 1
 https://mohanrc2.herokuapp.com/dl/10752/01_Fullmetal_Alchemist_Brotherhood_720p_x265_Dual_%40MediaNHK.mkv
 
 #EXTINF:-1 group-title="Fullmetal alchemist B",2
@@ -8897,7 +8907,7 @@ https://mohanrc2.herokuapp.com/dl/11182/63_Fullmetal_Alchemist_Brotherhood_720p_
 https://mohanrc2.herokuapp.com/dl/11183/64_Fullmetal_Alchemist_Brotherhood_720p_x265_Dual_%40MediaNHK.mkv
 
 
-#EXTINF:-1 group-title="JojosBizarre Adventure",S1 Ep 1
+#EXTINF:-1 group-title="JojosBizarre Adventure",JojosBizarre Adventure S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/11188/Jojos%20Bizarre%20Adventure%20S1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="JojosBizarre Adventure",S1 Ep 2
@@ -9391,7 +9401,7 @@ https://mohanrc2.herokuapp.com/dl/11350/Jojos%20Bizarre%20Adventure%20S5%20-%201
 https://mohanrc2.herokuapp.com/dl/11351/Jojos%20Bizarre%20Adventure%20S5%20-%2012%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 
-#EXTINF:-1 group-title="My hero academic",S1 Ep 1 
+#EXTINF:-1 group-title="My hero academic",My hero academic S1 Ep 1 
 https://mohanrc2.herokuapp.com/dl/11356/%5BAMC%5D%20MHA%20S01E01%20%5B480p%5D%5BDual-Audio%5D.mkv
 
 #EXTINF:-1 group-title="My hero academic",S1 Ep 2  
@@ -9743,7 +9753,7 @@ https://mohanrc2.herokuapp.com/dl/11470/%5BAMC%5DWorld%20Heroes%20Mission%20%5B4
  
 
  
-#EXTINF:-1 group-title="Demon slayer",S01 Ep 1
+#EXTINF:-1 group-title="Demon slayer",Demon slayer S01 Ep 1
 https://mohanrc2.herokuapp.com/dl/10193/Demon%20Slayer%20S1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 
@@ -9898,7 +9908,7 @@ https://mohanrc2.herokuapp.com/dl/10192/Demon%20Slayer%20S2%20-%2018%20%5B720p%5
 
 
 
-#EXTINF:-1 group-title="Bleach",1 
+#EXTINF:-1 group-title="Bleach",Bleach 1 
 https://mohanrc2.herokuapp.com/dl/10755/Bleach%20-%20001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Bleach",2
@@ -11024,7 +11034,7 @@ https://mohanrc2.herokuapp.com/dl/10748/Bleach%20movie%204.mkv
 
 
 
-#EXTINF:-1 group-title="Hunter x Hunter",1
+#EXTINF:-1 group-title="Hunter x Hunter",Hunter x Hunter 1
 https://mohanrc2.herokuapp.com/dl/10592/001%20-%20Departure%20%C3%97%20And%20%C3%97%20Friends.mkv
 
 #EXTINF:-1 group-title="Hunter x Hunter",2
@@ -11300,7 +11310,8 @@ https://mohanrc2.herokuapp.com/dl/10683/091%20-%20The%20Strong%20%C3%97%20And%20
 #EXTINF:-1 group-title="Hunter x Hunter",92
 https://mohanrc2.herokuapp.com/dl/10684/092%20-%20One%20Wish%20%C3%97%20And%20%C3%97%20Two%20Promises.mkv
 
-#EXTINF:-1 group-title="Hunter x Hunter",93https://mohanrc2.herokuapp.com/dl/10685/093%20-%20Date%20%C3%97%20With%20%C3%97%20Palm.mkv
+#EXTINF:-1 group-title="Hunter x Hunter",93
+https://mohanrc2.herokuapp.com/dl/10685/093%20-%20Date%20%C3%97%20With%20%C3%97%20Palm.mkv
 
 #EXTINF:-1 group-title="Hunter x Hunter",94
 https://mohanrc2.herokuapp.com/dl/10686/094%20-%20Friend%20%C3%97%20And%20%C3%97%20Journey.mkv
@@ -11474,7 +11485,7 @@ https://mohanrc2.herokuapp.com/dl/10649/Movie%201%20-%20Phantom%20Rouge.mkv
 https://mohanrc2.herokuapp.com/dl/10667/Movie%202%20-%20The%20Last%20Mission.mkv
 
 
-#EXTINF:-1 group-title="One punch man",S1 Ep 1
+#EXTINF:-1 group-title="One punch man",One punch man S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/11471/01%20-%20One%20Punch%20Man%20%5B720p%20Dual%5D.mkv
 
 #EXTINF:-1 group-title="One punch man",S1 Ep 2
@@ -11584,7 +11595,7 @@ https://mohanrc2.herokuapp.com/dl/11506/05%20-%20One%20Punch%20Man%20S2%20OVA%20
 https://mohanrc2.herokuapp.com/dl/11507/06%20-%20One%20Punch%20Man%20S2%20OVA%20%5B720p%5D.mkv
 
 
-#EXTINF:-1 group-title="Another",1
+#EXTINF:-1 group-title="Another",Another 1
 https://mohanrc2.herokuapp.com/dl/11533/Another%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Another",2
@@ -11624,7 +11635,7 @@ https://mohanrc2.herokuapp.com/dl/11544/Another%20-%2012%20%5B720p%5D%20%5BDual%
 https://mohanrc2.herokuapp.com/dl/11545/Another%20-%20OVA%201%20%5B720p%5D%20%5BSub%5D%20%40Anime_Gallery.mkv
 
 
-#EXTINF:-1 group-title="Violet evergarden",1
+#EXTINF:-1 group-title="Violet evergarden",Violet evergarden 1
 https://mohanrc2.herokuapp.com/dl/11508/Violet%20Evergarden%20S1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Violet evergarden",2
@@ -11672,7 +11683,7 @@ https://mohanrc2.herokuapp.com/dl/11522/Violet%20Evergarden%20Movie%20-%2001%20%
 #EXTINF:-1 group-title="Violet evergarden",Movie 2 2020
 https://mohanrc2.herokuapp.com/dl/11523/Violet%20Evergarden%20The%20Movie%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="Code geass",S1 Ep 1
+#EXTINF:-1 group-title="Code geass",Code geass S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/11546/Code%20Geass%20R1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Code geass",S1 Ep 2
@@ -11837,7 +11848,7 @@ https://mohanrc2.herokuapp.com/dl/11599/Lelouch%20of%20the%20Resurrection%20%5B7
 
 
 
-#EXTINF:-1 group-title="Baccano",1
+#EXTINF:-1 group-title="Baccano",Baccano 1
 https://mohanrc2.herokuapp.com/dl/11600/Baccano%21%20S1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Baccano",2
@@ -11889,7 +11900,7 @@ https://mohanrc2.herokuapp.com/dl/11615/Baccano%21%20Specials%20-%2003%20%5B720p
 
 
 
-#EXTINF:-1 group-title="School days",1
+#EXTINF:-1 group-title="School days",School days 1
 https://mohanrc2.herokuapp.com/dl/11624/01.%20Confession.mkv
 
 #EXTINF:-1 group-title="School days",2
@@ -11913,7 +11924,8 @@ https://mohanrc2.herokuapp.com/dl/11630/07.%20Eve.mkv
 #EXTINF:-1 group-title="School days",8
 https://mohanrc2.herokuapp.com/dl/11631/08.%20School%20Festival.mkv
 
-#EXTINF:-1 group-title="School days",9https://mohanrc2.herokuapp.com/dl/11632/09.%20Last%20day%20of%20the%20School%20Festival.mkv
+#EXTINF:-1 group-title="School days",9
+https://mohanrc2.herokuapp.com/dl/11632/09.%20Last%20day%20of%20the%20School%20Festival.mkv
 
 #EXTINF:-1 group-title="School days",10
 https://mohanrc2.herokuapp.com/dl/11633/10.%20Mind%20and%20Body.mkv
@@ -11927,7 +11939,7 @@ https://mohanrc2.herokuapp.com/dl/11635/12.%20School%20Days.mkv
 #EXTINF:-1 group-title="School days",OVA
 https://mohanrc2.herokuapp.com/dl/11636/Valentine%20Days%20%5BSub%5D%20%5B720p%5D%20%40Anime_Wars.mkv
 
-#EXTINF:-1 group-title="Fairy tail",1
+#EXTINF:-1 group-title="Fairy tail",Fairy tail 1
 https://mohanrc2.herokuapp.com/dl/11637/Fairy%20Tail%20-%20001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Fairy tail",2
@@ -12921,7 +12933,7 @@ https://mohanrc2.herokuapp.com/dl/11965/Fairy%20Tail%20-%20Movie%2001%20%5B720p%
 #EXTINF:-1 group-title="Fairy tail",Dragon cry 2017
 https://mohanrc2.herokuapp.com/dl/11966/Fairy%20Tail%20-%20Movie%2002%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="Avatar",S1 Ep 1
+#EXTINF:-1 group-title="Avatar",Avatar S1 Ep 1 tamil
 https://mohanrc2.herokuapp.com/dl/11967/_Avatar_%3A_The_Last_Airbender_S1_EO1_HDRip_1080p_Tamil_Join_Toon.mp4
 
 #EXTINF:-1 group-title="Avatar",S1 Ep 2
@@ -13084,7 +13096,7 @@ https://mohanrc2.herokuapp.com/dl/12019/_Avatar_%3A_The_Last_Airbender_S3_EO13_H
 https://mohanrc2.herokuapp.com/dl/12020/_Avatar_%3A_The_Last_Airbender_S3_EO14_HDRip_720p_Tamil_Join_Toon.mp4
 
 
-#EXTINF:-1 group-title="Tokyo revengers",S1 Ep 1
+#EXTINF:-1 group-title="Tokyo revengers",Tokyo revengers S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12021/Tokyo%20Revengers%20S1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Tokyo revengers",S1 Ep 2
@@ -13156,7 +13168,7 @@ https://mohanrc2.herokuapp.com/dl/12043/Tokyo%20Revengers%20S1%20-%2023%20%5B720
 #EXTINF:-1 group-title="Tokyo revengers",S1 Ep 24
 https://mohanrc2.herokuapp.com/dl/12044/Tokyo%20Revengers%20S1%20-%2024%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="Castlevania",S1 Ep 1
+#EXTINF:-1 group-title="Castlevania",Castlevania S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12046/01%20-%20Castlevania%20Season%201%20%40Anime_Flix_Pro.mkv
 
 #EXTINF:-1 group-title="Castlevania",S1 Ep 2
@@ -13253,7 +13265,7 @@ https://mohanrc2.herokuapp.com/dl/12076/09%20-%20Castlevania%20Season%204%20%40A
 https://mohanrc2.herokuapp.com/dl/12077/10%20-%20Castlevania%20Season%204%20%40Anime_Flix_Pro.mkv
 
 
-#EXTINF:-1 group-title="Grand blue dreaming",S1 Ep 1
+#EXTINF:-1 group-title="Grand blue dreaming",Grand blue dreaming S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12078/EP01%20%5B720p%5D%20%5BSub%5D%20AnimeDynasty.mkv
 
 #EXTINF:-1 group-title="Grand blue dreaming",S1 Ep 2
@@ -13290,7 +13302,7 @@ https://mohanrc2.herokuapp.com/dl/12088/EP11%20%5B720p%5D%20%5BSub%5D%20AnimeDyn
 https://mohanrc2.herokuapp.com/dl/12089/EP12%20%5B720p%5D%20%5BSub%5D%20AnimeDynasty.mkv
 
 
-#EXTINF:-1 group-title="Tokyo Ghoul",S1 Ep 1
+#EXTINF:-1 group-title="Tokyo Ghoul",Tokyo ghoul S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12090/Tokyo%20Ghoul%20S1%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Tokyo Ghoul",S1 Ep 2
@@ -13435,7 +13447,7 @@ https://mohanrc2.herokuapp.com/dl/12136/Tokyo%20Ghoul%20S3%20-%2023%20%5B720p%5D
 https://mohanrc2.herokuapp.com/dl/12137/Tokyo%20Ghoul%20S3%20-%2024%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 
-#EXTINF:-1 group-title="Devilman crybaby",S1 Ep 1
+#EXTINF:-1 group-title="Devilman crybaby",Devilman crybaby S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12138/Devilman%20Crybaby%20-%2001%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
 #EXTINF:-1 group-title="Devilman crybaby",S1 Ep 2 
@@ -13466,7 +13478,7 @@ https://mohanrc2.herokuapp.com/dl/12146/Devilman%20Crybaby%20-%2009%20%5B720p%5D
 #EXTINF:-1 group-title="Devilman crybaby",S1 Ep 10
 https://mohanrc2.herokuapp.com/dl/12147/Devilman%20Crybaby%20-%2010%20%5B720p%5D%20%5BDual%5D%20%40Anime_Gallery.mkv
 
-#EXTINF:-1 group-title="Akudama drive",S1 Ep 1
+#EXTINF:-1 group-title="Akudama drive",Akudama drive S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12148/01.%20SE7EN.mkv
 
 #EXTINF:-1 group-title="Akudama drive",S1 Ep 2
@@ -13502,7 +13514,7 @@ https://mohanrc2.herokuapp.com/dl/12158/11.%20WAR%20GAMES.mkv
 #EXTINF:-1 group-title="Akudama drive",S1 Ep 12
 https://mohanrc2.herokuapp.com/dl/12159/12.%20AKUDAMA%20DRIVE.mkv
 
-#EXTINF:-1 group-title="Recovery of an MMO junkie",S1 Ep 1
+#EXTINF:-1 group-title="Recovery of an MMO junkie",Recovery of an MMO junkie S1 Ep 1
 https://mohanrc2.herokuapp.com/dl/12160/01.%20%E2%99%80%20IRL%2C%20%E2%99%82%20Online.mkv
 
 #EXTINF:-1 group-title="Recovery of an MMO junkie",S1 Ep 2
@@ -13533,7 +13545,7 @@ https://mohanrc2.herokuapp.com/dl/12168/09.%20I%20Call%20That%20Feeling%20Marble
 https://mohanrc2.herokuapp.com/dl/12169/10.%20On%20a%20Moonlit%20Evening.mkv
 
 
-#EXTINF:-1 group-title="jujutsu kaisen",Ep 1
+#EXTINF:-1 group-title="jujutsu kaisen",Jujutsu kaisen Ep 1
 https://mohanrc2.herokuapp.com/dl/12267/01%20-%20Jujutsu%20Kaisen%20%5B720p%5D%20%5BDual%5D%20%40AnimeFiles.mkv
 
 #EXTINF:-1 group-title="jujutsu kaisen",Ep 2
@@ -13605,7 +13617,7 @@ https://mohanrc2.herokuapp.com/dl/12289/23%20-%20Jujutsu%20Kaisen%20%5B720p%5D%2
 #EXTINF:-1 group-title="jujutsu kaisen",Ep 24
 https://mohanrc2.herokuapp.com/dl/12290/24%20-%20Jujutsu%20Kaisen%20%5B720p%5D%20%5BDual%5D%20%40AnimeFiles.mkv
 
-#EXTINF:-1 group-title="Devil is a part timer",Ep 1
+#EXTINF:-1 group-title="Devil is a part timer",Devil is a part timer Ep 1
 https://mohanrc2.herokuapp.com/dl/12247/01_The_Devil_is_a_Part_Timer%21_720p_Dual_%40AnimeFiles.mkv
 
 #EXTINF:-1 group-title="Devil is a part timer",Ep 2
@@ -13645,7 +13657,7 @@ https://mohanrc2.herokuapp.com/dl/12258/12_The_Devil_is_a_Part_Timer%21_720p_Dua
 #EXTINF:-1 group-title="Devil is a part timer",Ep 13
 https://mohanrc2.herokuapp.com/dl/12259/13_The_Devil_is_a_Part_Timer%21_720p_Dual_%40AnimeFiles.mkv
 
-#EXTINF:-1 group-title="Tekken bloodline",Ep 1
+#EXTINF:-1 group-title="Tekken bloodline",Tekken bloodline Ep 1
 https://mohanrc2.herokuapp.com/dl/12260/01%20-%20Tekken%20Bloodline%20%5B720p%5D%20%5BDual%5D%20%40AnimeFiles.mkv
 
 #EXTINF:-1 group-title="Tekken bloodline",Ep 2
