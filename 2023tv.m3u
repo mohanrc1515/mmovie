@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1, IBC PAGADI
+#EXTINF:-1 group-title="IBC", IBC PAGADI
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, IBC 
+#EXTINF:-1group-title="IBC", IBC 
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
-#EXTINF:-1, IBC music 
+#EXTINF:-1 group-title="IBC", IBC music 
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, IBC canada
+#EXTINF:-1 group-title="IBC", IBC canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
