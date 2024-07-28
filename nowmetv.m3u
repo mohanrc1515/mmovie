@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1, Vijay tv
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/161/video-cif-stream-6-154991731937706.m4f
+
+
+#EXTINF:-1, sun tv
+https://livestream.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index_video_13_0_459711.mp4?m=1719403254
+
+#EXTINF:-1, ktv
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index_video_13_0_457283.mp4?m=1719403755
+
+#EXTINF:-1, sun music
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index_video_13_0_453721.mp4?m=1719407005
+
+#EXTINF:-1, sun life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index_video_11_0_388824.mp4?m=1719816796
+
+#EXTINF:-1, kalaignar tv
+https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
+
+#EXTINF:-1, Vijay takkar
+https://stream.vstartv.org:3534/hybrid/play.m3u8
+
+#EXTINF:-1, Adithya 
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index_video_11_0_451874.mp4?m=1719494194
+
+#EXTINF:-1, star tamil
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/chunklist_w1082298711_b596000_DVR.m3u8?nimblesessionid=43086192&dvr
+
+#EXTINF:-1, vikatan tv
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/1d6a3e7c-6c41-4e11-8373-edc5e40b1467/2.m3u8
+
+
+#EXTINF:-1, IBC
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, IBC BAKTHI
+https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Tamil one 
+https://livegeoroueu.akamaized.net/250723/smil:tamilone1.smil/chunklist_b2628000.m3u8?hdntl=exp=1722217377~acl=!*/250723/smil:tamilone1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/payload/yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/*~data=hdntl~hmac=d81391097143eb5a5c2d54e9a5763a03635e6d2fb52d872abc63404de51ac72f&hdnts=st=1722130976~exp=1722131576~acl=!*/250723/smil:tamilone1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/payload/yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/*~hmac=4d1ffd2bc1e5befcff9e53053e371510450f99a7e4dc1324ae0daa8545147da4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=ENT&ads.channel=3601&ads.channel_name=TamilOne&ads.network_name=yupptv&ads.user=1
