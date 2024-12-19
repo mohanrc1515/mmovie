@@ -2,8 +2,8 @@
 #EXTINF:-1, Vijay tv
 http://217.20.112.199/vijaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Vijay super 
-http://117.102.16.2:34567/play/STARVIJAYSUPERSD/index.m3u8
+#EXTINF:-1, sun tv
+https://sunnxt.malayalamtvhd.workers.dev/livestream2/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index_video_13_0_2551288.mp4?m=1732249818
 
 #EXTINF:-1, KTV
 https://sunnxt.malayalamtvhd.workers.dev/livestream/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index_video_13_0_2537538.mp4?m=1719403755
