@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, Vijay tv
-http://217.20.112.199/vijaytv/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1, sun tv
 https://sunnxt.malayalamtvhd.workers.dev/livestream2/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index_video_13_0_2551288.mp4?m=1732249818
@@ -12,7 +12,8 @@ https://sunnxt.malayalamtvhd.workers.dev/livestream/61477b4c8d8d45d5a49e044cc1df
 https://sunnxt.malayalamtvhd.workers.dev/livestream/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index_video_13_0_2520213.mp4?m=1719407005
 
 
-
+#EXTINF:-1, Vijay tv
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/161/video-cif-stream-5-156111649172300.m4f
 
 #EXTINF:-1, vikatan tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/1d6a3e7c-6c41-4e11-8373-edc5e40b1467/2.m3u8
