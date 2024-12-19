@@ -5,10 +5,11 @@ http://217.20.112.199/vijaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Vijay super 
 http://117.102.16.2:34567/play/STARVIJAYSUPERSD/index.m3u8
 
+#EXTINF:-1, KTV
+https://sunnxt.malayalamtvhd.workers.dev/livestream/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index_video_13_0_2537538.mp4?m=1719403755
 
-
-#EXTINF:-1, zee tamil
-https://mhdmaxtv.me/nowmelive/stream.php?load=cbb0227144b31df844d4e448658d2fd2b2d00a3ffcb0b1b57ef4eed7ebd7749aa2cd523befb618f6bf0c67d601b199b02baa47ade416f7facccdcad633abfeb2999766009b7abcffb7846ef95a64cbeef58cbe1f9174e202c49013f81eccd211d214701ea9c046781220af39abb96c00c3573600c272f1fa3dae8a05bc9d117381e718e71020c1bae8ef1a5e54c9a33e9befe2b4687c3ab4839109c6530311ec12f75bba2125dee27e32d51b2a7247164df60592feecfc60d5e5487c2bbbab70&type=chunks&vtoken=
+#EXTINF:-1, sun music 
+https://sunnxt.malayalamtvhd.workers.dev/livestream/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index_video_13_0_2520213.mp4?m=1719407005
 
 
 
