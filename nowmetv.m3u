@@ -28,11 +28,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, star tamil
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/chunklist_w1082298711_b596000_DVR.m3u8?nimblesessionid=43086192&dvr
-
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg",Zee tamizh
-http://217.20.112.199:8080/ZeeTamil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, kalaignar tv
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
