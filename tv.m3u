@@ -1,8 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, 
-#EXTINF:-1, sun tv
-https://sunnxt.malayalamtvhd.workers.dev/livestream2/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index_video_13_0_2551288.mp4?m=1732249818
+#EXTINF:-1, kalaignar tv
+https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
+#EXTINF:-1, siripoli
+https://cdn-3.pishow.tv/live/1253/1253_1.m3u8
 
 #EXTINF:-1, KTV
 https://sunnxt.malayalamtvhd.workers.dev/livestream/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index_video_13_0_2537538.mp4?m=1719403755
