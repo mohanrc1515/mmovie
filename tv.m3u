@@ -15,20 +15,20 @@ https://segment.yuppcdn.net/050522/murasu/050522/murasu_1800/chunks.m3u8
 #EXTINF:-1, IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SUN LIFE
+#EXTINF:-1, RASI HOLLYWOOD 
 https://sunnxt.malayalamtvhd.workers.dev/livestream/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index_video_11_0_2473768.mp4?m=1728384958
 
-#EXTINF:-1, Vijay tv
+#EXTINF:-1, RASI MUSIC
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/161/video-cif-stream-5-156111649172300.m4f
 
-#EXTINF:-1, vikatan tv
+#EXTINF:-1, RASI COMEDY 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/bd698211-42b3-4a17-82ec-53c1113c6099/2.m3u8
 
 
-#EXTINF:-1, IBC
+#EXTINF:-1, RASI TV
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1, kalaignar tv
+#EXTINF:-1, RASI MOVIE
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
