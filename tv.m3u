@@ -12,8 +12,8 @@ https://cdn-3.pishow.tv/live/1253/1253_1.m3u8
 #EXTINF:-1, murasu
 https://segment.yuppcdn.net/050522/murasu/050522/murasu_1800/chunks.m3u8
 
-#EXTINF:-1, ADITHYA TV
-https://sunnxt.malayalamtvhd.workers.dev/livestream/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index_video_11_0_2518498.mp4?m=1722408215
+#EXTINF:-1, IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SUN LIFE
 https://sunnxt.malayalamtvhd.workers.dev/livestream/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index_video_11_0_2473768.mp4?m=1728384958
