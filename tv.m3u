@@ -3,10 +3,11 @@
 #EXTINF:-1, kalaignar tv
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
 #EXTINF:-1, siripoli
-https://cdn-3.pishow.tv/live/1253/1253_1.m3u8
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/d54a08ce-110d-4c83-9e78-4a04d08800dd/0.m3u8
 
-#EXTINF:-1, KTV
-https://sunnxt.malayalamtvhd.workers.dev/livestream/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index_video_13_0_2537538.mp4?m=1719403755
+
+#EXTINF:-1, MK SIX
+https://cdn-3.pishow.tv/live/1253/1253_1.m3u8
 
 #EXTINF:-1, sun music 
 https://sunnxt.malayalamtvhd.workers.dev/livestream/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index_video_13_0_2520213.mp4?m=1719407005
