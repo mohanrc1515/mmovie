@@ -33,7 +33,8 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 #EXTINF:-1,Yaazhi tv
 https://stream.onecloudlive.in/yazhitv/yazhitvhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,vasantham tv
+https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.ts.m3u8
 
 
 #EXTINF:-1,
