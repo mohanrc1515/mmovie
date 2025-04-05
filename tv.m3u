@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1, BATTER  cam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1, HERO cam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8
+
+
+#EXTINF:-1, STUMP CAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1, FIELD VIEW CAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8
+
 #EXTINF:-1, IPL TAMIL
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8
 
