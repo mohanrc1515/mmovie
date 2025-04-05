@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, IPL TAMIL
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8
+
 #EXTINF:-1, backup kalaignar tv
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
 #EXTINF:-1, siripoli
