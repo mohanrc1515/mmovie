@@ -1,22 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, BATTER  cam
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8
 
-#EXTINF:-1, HERO cam
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8
-
-
-#EXTINF:-1, STUMP CAM
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8
-
-#EXTINF:-1, FIELD VIEW CAM
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8
-
-#EXTINF:-1, IPL TAMIL
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8
-
-#EXTINF:-1, backup kalaignar tv
+#EXTINF:-1, kalaignar tv backup
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
 #EXTINF:-1, siripoli
 https://segment.yuppcdn.net/240122/siripoli/240122/siripoli_1200/chunks.m3u8
@@ -46,19 +31,12 @@ http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
 
 
 
-#EXTINF:-1,Yaazhi tv
-https://stream.onecloudlive.in/yazhitv/yazhitvhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,vasantham tv
-https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.ts.m3u8
-
-
 #EXTINF:-1,DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_6.m3u8
 
 
-#EXTINF:-1,THANTHI ONE
-https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1, kalaignar tv backup2
+https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD 
