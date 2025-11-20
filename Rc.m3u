@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1tvg-id=""tvg-name=""tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2FdlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ&tbnid=TNzhUebuVbMf0M&vet=1&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.harimedia.sanaplus&docid=-BiJbTnwSr4DOM&w=512&h=512&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=1bb5aeb1eb0e10d8&shem=dimg2%2Cisst",sana plus
-
+#EXTINF:-1 tvg-id="" tvg-name="Sana Plus" tvg-logo="https://i.ibb.co/0Q8L0yN/sana-plus-logo.png",Sana Plus
 https://galaxyott.live//hls/sanaplus.m3u8
