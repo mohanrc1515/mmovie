@@ -1,4 +1,192 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Sana Plus" tvg-logo="https://ibb.co/mrmCrZH6",Sana Plus
+#EXTINF:-1, Sana plus hd
 https://galaxyott.live//hls/sanaplus.m3u8
+
+#EXTINF:-1, Kcn hd
+https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
+
+#EXTINF:-1, CTN hd
+https://live.olidigital.in/ctnchannel/ctnchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Suriyan tv hd
+https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
+#EXTINF:-1, Bsc old hd
+https://stream.onecloudlive.in/bschd/live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Chen plus hd
+https://view.apserver.in/tmp_hls7/chenplus/index.m3u8
+
+#EXTINF:-1, Chen tv hd
+https://view.apserver.in/tmp_hls16/chentv/index.m3u8
+
+#EXTINF:-1, Rc music hd
+https://view.rcserver.in/tmp_hls2/stream/index.m3u8
+
+#EXTINF:-1, Udhayam tv hd
+https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
+
+#EXTINF:-1, Leaf tv hd
+https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
+
+#EXTINF:-1, Sky tv hd
+https://uiptv.iptv.pics/hls/skytv/index.m3u8
+
+#EXTINF:-1, Panjami hd
+https://uiptv.iptv.pics/hls/tcclamman/index.m3u8
+
+#EXTINF:-1, MR tv hd
+https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
+
+#EXTINF:-1, Dhejes tv hd
+https://view.apserver.in/tmp_hls4/lingaatv/index.m3u8
+
+#EXTINF:-1, Q max hd
+https://view.rcserver.in/tmp_hls21/qmaxtv/index.m3u8
+
+#EXTINF:-1, Jayam tv hd
+https://view.rcserver.in/tmp_hls20/index.m3u8
+
+#EXTINF:-1, Apple tv hd
+https://view.rcserver.in/tmp_hls18/index.m3u8
+
+#EXTINF:-1, Karur tv hd
+https://view.rcserver.in/tmp_hls16/karurtv/index.m3u8
+
+#EXTINF:-1, Karur city hd
+https://view.rcserver.in/tmp_hls17/karurcity/index.m3u8
+
+#EXTINF:-1, Jeya subbu hd
+https://view.rcserver.in/tmp_hls13/jeyasubbumovies/index.m3u8
+
+#EXTINF:-1, Amma vision hd
+https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
+
+#EXTINF:-1, Thirai isai hd
+https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
+
+#EXTINF:-1, Thirai hd
+https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
+
+#EXTINF:-1, Jai tv hd
+https://play.applelive.in/jaitv/jaitv.m3u8
+
+#EXTINF:-1, Bass tv hd
+https://anywhere.pwisetthon.com/http://xstream.onecloudlive.in:8080/bass/basstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Nisha tv hd
+https://app.ashokadigital.net/app/7825e06b/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, sscn hd
+https://app.ashokadigital.net/sscn/sscn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Bright simrose hd
+https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
+
+#EXTINF:-1, Stn hd
+https://play.applelive.in/stntv/stntv.m3u8
+
+#EXTINF:-1, Boss tv hd
+https://play.applelive.in/vasantv/vasantv.m3u8
+
+#EXTINF:-1, Mcn hd
+https://play.applelive.in/mcntv/mcntv.m3u8
+
+#EXTINF:-1, Jayam tv namakkal hd
+https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
+
+#EXTINF:-1, Boys tv hd
+https://rtmp.applelive.in/boystv/boystv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Jrp tv hd
+https://ipcloud.live/jrptv/jrphd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Sstv hd
+https://server.sscloud7.in/live/sshd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Jayamtv hd
+https://ipcloud.live/jayamtv/jayamtvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Kovai tv hd
+https://account31.livebox.co.in/Kovaitvhls/live.m3u8
+
+#EXTINF:-1, Santv hd
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/8ae99d77-6ebe-41e4-9c14-7e15ba5c0a01/0.m3u8
+
+#EXTINF:-1, Irattai paathai hd
+https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
+
+#EXTINF:-1, Bharathi hd
+https://server.sscloud7.in/live/bharathitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Senthoor tv hd
+https://senthurtv-hls.suriyantv.in/live/senthurtv/chunklist_w1122085009.m3u8
+
+#EXTINF:-1, Vani tv hd
+https://live.sscloud7.in/live/vanitvhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Max movies hd
+https://live.maxtn.in/maxmovies/maxmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Max music hd
+https://live.maxtn.in/maxmusic/maxmusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Garudan tv
+https://play.applelive.in/hls/garudantv.m3u8
+
+#EXTINF:-1, Vtv
+https://play.applelive.in/vtv/vtv.m3u8
+
+#EXTINF:-1, Opv tv
+https://view.apserver.in/tmp_hls5/opvtv/index.m3u8
+
+#EXTINF:-1, Jayam tv karur
+https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
+
+#EXTINF:-1, Yatra tv
+https://live.rojatv.cloud/yatra/tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Like tv
+https://view.apserver.in/tmp_hls9/liketv/index.m3u8
+
+#EXTINF:-1, Gcv tv
+https://play.applelive.in/gcv/gcv.m3u8
+
+#EXTINF:-1, jc tv
+https://play.applelive.in/jctv/jctv.m3u8
+
+#EXTINF:-1, Kumari kathir
+https://play.applelive.in/jjmax/jjmax.m3u8
+
+#EXTINF:-1, Izzath tv
+https://live.olidigital.in/izzathtv/izzathtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Maniway
+https://live.singamcloud.in/bsctv/bsctv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Endhiran tv
+https://live.applelive.in/enthirantv/enthirantv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Ganesh tv kid
+https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+#EXTINF:-1, Emperor tv
+https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
+
+#EXTINF:-1, Ms mathan
+https://anywhere.pwisetthon.com/http://madhantv.phoenixcreations.online/madhantv/madhantv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Ctn
+https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
+
+#EXTINF:-1, Velavan tv
+https://rtmp.applelive.in/srivelavantvultrahd/srivelavantvultrahd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Tharun movies
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+#EXTINF:-1, Mn tv
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+#EXTINF:-1, Sk tv
+https://stream.galaxyott.live/live/sktv/tracks-v1a1/mono.m3u8
