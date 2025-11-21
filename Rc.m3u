@@ -8,8 +8,6 @@ https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
 #EXTINF:-1, CTN hd
 https://live.olidigital.in/ctnchannel/ctnchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Suriyan tv hd
-https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
 
 #EXTINF:-1, Bsc old hd
 https://stream.onecloudlive.in/bschd/live/tracks-v1a1/mono.m3u8
