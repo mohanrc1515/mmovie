@@ -276,10 +276,6 @@ https://webcast.emn.onl/IBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Polimer news
 https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
 
-#EXTINF:-1, POLIMER NEWS YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763757675/ei/C3ogaae0MOet6dsPjKbjiAc/ip/86.107.43.88/id/TO4h0MVxszo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5R70nYLXsM2dswL7n0yhl4F7M_NoiHToWHaHOYbnsH7D_0zSZQboE0cGgm-NHk7s6U5kGEOCWjw/spc/6b0G_LkKezIgs0RZ7eTjiKiZsM85Thp2iI2CwDCbqIG7r-cme8qCpMSg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBrDPNElCPJ-iYWrbKwAvD7tEMwr5tUCbBo_pKvH089cCIAlYtFW_UEx8TuA7iFZyo2AF3vfmgM2aND09rqOj12SJ/file/index.m3u8
-
-#EXTINF:-1, STARMUSIC YT
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763757782/ei/dnogafK4Jd2N6dsPj8KK0A0/ip/86.107.43.88/id/c9J-Fs0oTZk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5QU7l9AC3108XpPG0vEanmbusxr0MwWSTthq8rwARs4I5f8LNTqh58LPbriPsGUKz8RnVL-ITNM/spc/6b0G_MbqC_9ZXsSEcvnElEfaedtQhvEMU0w1c9aAAemDvOS_aaGoFmDKnZI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRWlMnysvuIgQwONpsg2SIiWYos_ParAyZWUkwngJcr8CIEGJWJ-8wjWq-sng8bM4OxurETwKzTCzunExqhGjveaO/file/index.m3u8
-
+#EXTINF:-1, Ashes
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
