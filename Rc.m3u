@@ -106,13 +106,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1, Irattai paathai hd
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 
-#EXTINF:-1, Bharathi hd
+#EXTINF:-1 Bharathi hd
 https://server.sscloud7.in/live/bharathitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Senthoor tv hd
 https://senthurtv-hls.suriyantv.in/live/senthurtv/chunklist_w1122085009.m3u8
 
-#EXTINF:-1, Vani tv hd
+#EXTINF:-1 Vani tv hd
 https://live.sscloud7.in/live/vanitvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Max movies hd
@@ -127,25 +127,25 @@ https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/chunks.
 #EXTINF:-1, Raga tv hd
 https://live.onecloudlive.in/ragatv/ragatvhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Oli tv hd
+#EXTINF:-1, Oli tv 👍 hd
 https://live.olidigital.in/olitv/olitv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Kumari tv hd
+#EXTINF:-1, Kumari tv 👍 hd
 https://rtmp.applelive.in/gvkumaritv/gvkumaritv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Prime tv hd
+#EXTINF:-1, Prime tv 👍 hd
 https://live.applelive.in/primetv/primetv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Surya tv hd
+#EXTINF:-1 Surya tv hd
 https://galaxyott.live/hls//suryatv.m3u8
 
-#EXTINF:-1, Yet tv hd
+#EXTINF:-1, Yet tv 👍hd
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
-#EXTINF:-1, A2a hd
+#EXTINF:-1, A2a 👍 hd
 https://live.sscloud7.in/live/a2atv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Manasu tv hd
+#EXTINF:-1 Manasu tv hd
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 
 #EXTINF:-1, Vedha hd
@@ -157,7 +157,7 @@ https://live.sscloud7.in/live/sakthitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Dtv hd
 https://stream.d6-pro.com/Dtv/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Phoenix tv hd
+#EXTINF:-1Phoenix tv hd
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DD tamil hd
@@ -166,10 +166,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/in
 #EXTINF:-1, Garudan tv
 https://play.applelive.in/hls/garudantv.m3u8
 
-#EXTINF:-1, Vtv
+#EXTINF:-1, Vtv 👍
 https://play.applelive.in/vtv/vtv.m3u8
 
-#EXTINF:-1, Opv tv
+#EXTINF:-1 Opv tv
 https://view.apserver.in/tmp_hls5/opvtv/index.m3u8
 
 #EXTINF:-1, Jayam tv karur
@@ -178,16 +178,16 @@ https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
 #EXTINF:-1, Yatra tv
 https://live.rojatv.cloud/yatra/tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Like tv
+#EXTINF:- Like tv
 https://view.apserver.in/tmp_hls9/liketv/index.m3u8
 
-#EXTINF:-1, Gcv tv
+#EXTINF:-1 Gcv tv
 https://play.applelive.in/gcv/gcv.m3u8
 
 #EXTINF:-1, jc tv
 https://play.applelive.in/jctv/jctv.m3u8
 
-#EXTINF:-1, Kumari kathir
+#EXTINF:-1, Kumari kathir 👍
 https://play.applelive.in/jjmax/jjmax.m3u8
 
 #EXTINF:-1, Izzath tv
@@ -196,13 +196,13 @@ https://live.olidigital.in/izzathtv/izzathtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Maniway
 https://live.singamcloud.in/bsctv/bsctv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Endhiran tv
+#EXTINF:-1, Endhiran tv 👍
 https://live.applelive.in/enthirantv/enthirantv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Ganesh tv kid
+#EXTINF:-1 Ganesh tv kid
 https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
-#EXTINF:-1, Emperor tv
+#EXTINF:-1, Emperor tv 👍
 https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
 
 #EXTINF:-1, Ms mathan
@@ -211,7 +211,7 @@ https://anywhere.pwisetthon.com/http://madhantv.phoenixcreations.online/madhantv
 #EXTINF:-1, Ctn
 https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
 
-#EXTINF:-1, Velavan tv
+#EXTINF:-1, Velavan tv 👍
 https://rtmp.applelive.in/srivelavantvultrahd/srivelavantvultrahd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Tharun movies
@@ -226,16 +226,16 @@ https://stream.galaxyott.live/live/sktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Tamil oli tv
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 
-#EXTINF:-1, Kc tv
+#EXTINF:-1, Kc tv👍
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
 
-#EXTINF:-1, Jr malar
+#EXTINF:-1 Jr malar
 https://server.sscloud7.in/live/malartv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Jcv musix
 https://play.applelive.in/jcvtv/jcvmusix.m3u8
 
-#EXTINF:-1, g music
+#EXTINF:-1g music
 https://rtmp.applelive.in/gmusic/gmusic/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Dark tv
@@ -244,10 +244,10 @@ https://play.applelive.in/darktv/darktv.m3u8
 #EXTINF:-1, Om sakthi tv
 https://sscloud7.com/live/omsakthitv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Harin tv
+#EXTINF:-1, Harin tv👍
 https://ipcloud.live/harintv/harintvhd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Time tv
+#EXTINF:-1, Time tv👍
 https://live.olidigital.in/timetv/timetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Kalaignar tv
@@ -262,7 +262,7 @@ https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1cc
 #EXTINF:-1, Siripoli
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/e6d9b30d-e8d0-4d49-9a71-d47341fcd0e8/0.m3u8
 
-#EXTINF:-1, Ibc tamil
+#EXTINF:-1, Ibc tamil 👍
 https://webcast.emn.onl/IBC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Polimer news
