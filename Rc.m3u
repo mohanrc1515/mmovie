@@ -20,7 +20,7 @@ https://view.rcserver.in/tmp_hls2/stream/index.m3u8
 #EXTINF:-1, Udhayam tv hd
 https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 
-#EXTINF:-1, Leaf tv hd
+#EXTINF:-1Leaf tv hd
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
 
 
@@ -55,7 +55,7 @@ https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 #EXTINF:-1, Thirai isai hd
 https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 
-#EXTINF:-1, Thirai hd
+#EXTINF:-1 Thirai hd
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 
 #EXTINF:-1, Jai tv hd
@@ -73,7 +73,7 @@ https://app.ashokadigital.net/sscn/sscn/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bright simrose hd
 https://notvstream.in/brightsimrosetv/brightsimrosetv.m3u8
 
-#EXTINF:-1, Stn hd
+#EXTINF:-1 Stn hd
 https://play.applelive.in/stntv/stntv.m3u8
 
 #EXTINF:-1, Boss tv hd
@@ -85,7 +85,7 @@ https://play.applelive.in/mcntv/mcntv.m3u8
 #EXTINF:-1, Jayam tv namakkal hd
 https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 
-#EXTINF:-1, Boys tv hd
+#EXTINF:-1 Boys tv hd
 https://rtmp.applelive.in/boystv/boystv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, Jrp tv hd
