@@ -10,10 +10,8 @@ https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
 #EXTINF:-1, Bsc old hd
 https://stream.onecloudlive.in/bschd/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Chen plus hd
-https://view.apserver.in/tmp_hls7/chenplus/index.m3u8
 
-#EXTINF:-1, Chen tv hd
+#EXTINF:-1 Chen tv hd
 https://view.apserver.in/tmp_hls16/chentv/index.m3u8
 
 #EXTINF:-1, Rc music hd
