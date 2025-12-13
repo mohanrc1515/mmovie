@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rasi TV HD" tvg-logo="https://i.ibb.co/4Zptmxxp/rasitv-hd.png" group-title="Rasi Networks",Rasi TV HD
+https://rasinetworks.in/live/rasitvhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Tamil HD" tvg-logo="https://i.ibb.co/MyksR9md/rasi-tamil-hd.png" group-title="Rasi Networks",Rasi Tamil HD
+https://rasinetworks.in/live/rasitamilhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Movies HD" tvg-logo="https://i.ibb.co/93WWCwWn/rasi-movies-hd.png" group-title="Rasi Networks",Rasi Movies HD
+https://rasinetworks.in/live/rasimovieshd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Music HD" tvg-logo="https://i.ibb.co/0ycKLm65/Rasi-Music.png" group-title="Rasi Networks",Rasi Music HD
+https://rasinetworks.in/live/rasimusichd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Hollywood HD" tvg-logo="https://i.ibb.co/3mTBLq5K/rasi-hollywood-hd.png" group-title="Rasi Networks",Rasi Hollywood HD
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Classic HD" tvg-logo="https://i.ibb.co/jPS6pLqQ/rasi-classic-hd.png" group-title="Rasi Networks",Rasi Classic HD
+https://rasinetworks.in/live/rasiclassichd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Cinemax HD" tvg-logo="https://i.ibb.co/WN1jkx0n/Rasi-Cinemax.png" group-title="Rasi Networks",Rasi Cinemax HD
+https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Cinema HD" tvg-logo="https://i.ibb.co/nsB9m777/Rasi-Cinema.png" group-title="Rasi Networks",Rasi Cinema HD
+https://rasinetworks.in/live/rasicinemahd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Comedy HD" tvg-logo="https://i.ibb.co/4w9ywpHP/rasi-comedy.png" group-title="Rasi Networks",Rasi Comedy HD
+https://rasinetworks.in/live/rasicomedyhd/index.mpd
+#EXTINF:-1 tvg-id="Rasi Lifestyle HD" tvg-logo="https://i.ibb.co/pr2wvtfQ/rasi-lifestyle-hd.png" group-title="Rasi Networks",Rasi Lifestyle HD
+https://rasinetworks.in/live/rasilifestylehd/index.mpd
+
 
 
 #EXTINF:-1, Sana plus hd
