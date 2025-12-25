@@ -20,6 +20,26 @@ https://rasinetworks.in/live/rasicomedyhd/index.mpd
 #EXTINF:-1 tvg-id="Rasi Lifestyle HD" tvg-logo="https://i.ibb.co/pr2wvtfQ/rasi-lifestyle-hd.png" group-title="Rasi Networks",Rasi Lifestyle HD
 https://rasinetworks.in/live/rasilifestylehd/index.mpd
 
+#EXTINF:-1, DD tamil hd
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_6.m3u8
+
+#EXTINF:-1, Kalaignar tv
+https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
+
+#EXTINF:-1, Murasu
+https://segment.yuppcdn.net/050522/murasu/050522/murasu_1800/chunks.m3u8
+
+#EXTINF:-1, Isaiaruvi
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/8aa87d3c-71d8-450e-bea5-f82579d867a2/0.m3u8
+
+#EXTINF:-1, Siripoli
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/e6d9b30d-e8d0-4d49-9a71-d47341fcd0e8/0.m3u8
+
+#EXTINF:-1, Ibc tamil 👍
+https://webcast.emn.onl/IBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Polimer news
+https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
 
 
 #EXTINF:-1, Sana plus hd
@@ -181,8 +201,6 @@ https://stream.d6-pro.com/Dtv/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1Phoenix tv hd
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, DD tamil hd
-https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_6.m3u8
 
 #EXTINF:-1, Garudan tv
 https://play.applelive.in/hls/garudantv.m3u8
@@ -271,23 +289,6 @@ https://ipcloud.live/harintv/harintvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Time tv👍
 https://live.olidigital.in/timetv/timetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Kalaignar tv
-https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
-
-#EXTINF:-1, Murasu
-https://segment.yuppcdn.net/050522/murasu/050522/murasu_1800/chunks.m3u8
-
-#EXTINF:-1, Isaiaruvi
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/8aa87d3c-71d8-450e-bea5-f82579d867a2/0.m3u8
-
-#EXTINF:-1, Siripoli
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/e6d9b30d-e8d0-4d49-9a71-d47341fcd0e8/0.m3u8
-
-#EXTINF:-1, Ibc tamil 👍
-https://webcast.emn.onl/IBC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, Polimer news
-https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
 
 #EXTINF:-1, Ashes
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
