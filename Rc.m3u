@@ -135,13 +135,13 @@ https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 #EXTINF:-1 Boys tv hd
 https://rtmp.applelive.in/boystv/boystv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Jrp tv hd
+#EXTINF:-1Jrp tv hd
 https://ipcloud.live/jrptv/jrphd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sstv hd
 https://server.sscloud7.in/live/sshd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Jayamtv hd
+#EXTINF:-1Jayamtv hd
 https://ipcloud.live/jayamtv/jayamtvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Kovai tv hd
@@ -150,7 +150,7 @@ https://account31.livebox.co.in/Kovaitvhls/live.m3u8
 #EXTINF:-1, Santv hd
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/8ae99d77-6ebe-41e4-9c14-7e15ba5c0a01/0.m3u8
 
-#EXTINF:-1, Irattai paathai hd
+#EXTINF:-1Irattai paathai hd
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 
 #EXTINF:-1 Bharathi hd
