@@ -44,7 +44,7 @@ https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3
 #EXTINF:-1, MAX MOVIES HD
 https://live.maxtn.in/maxmovies/maxmovies/tracks-v1a1/mono.m3u8
 
-#EXTIMF:-1, MAX MUSIC
+#EXTINF:-1, MAX MUSIC
 https://live.maxtn.in/maxmusic/maxmusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sana plus hd
@@ -69,7 +69,8 @@ https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 #EXTINF:-1Leaf tv hd
 https://view.apserver.in/tmp_hls15/leaftv/index.m3u8
 
-
+#EXTINF:-1, RAJ TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index_9.m3u8
 
 #EXTINF:-1, MR tv hd
 https://view.apserver.in/tmp_hls8/mrtv/index.m3u8
