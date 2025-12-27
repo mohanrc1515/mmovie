@@ -93,7 +93,7 @@ https://view.rcserver.in/tmp_hls16/karurtv/index.m3u8
 #EXTINF:-1, Karur city hd
 https://view.rcserver.in/tmp_hls17/karurcity/index.m3u8
 
-#EXTINF:-1, Jeya subbu hd
+#EXTINF:-1 Jeya subbu hd
 https://view.rcserver.in/tmp_hls13/jeyasubbumovies/index.m3u8
 
 #EXTINF:-1, Amma vision hd
