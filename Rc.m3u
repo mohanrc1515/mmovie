@@ -105,10 +105,10 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 Thirai hd
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 
-#EXTINF:-1, Jai tv hd
+#EXTINF:-1 Jai tv hd
 https://play.applelive.in/jaitv/jaitv.m3u8
 
-#EXTINF:-1, Bass tv hd
+#EXTINF:-1 Bass tv hd
 https://anywhere.pwisetthon.com/http://xstream.onecloudlive.in:8080/bass/basstv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Nisha tv hd
