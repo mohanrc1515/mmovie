@@ -298,3 +298,7 @@ https://live.olidigital.in/timetv/timetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Ashes
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgwNmFlMzMtMzg0Zi00NjIzLTgwZjQtYmRhYzQwZjA5YTE2XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.png" group-title="Rajinikanth Movies",Petta (2018)
+https://filestream.elcoders.workers.dev//dl/106899?code=c7b4b4c03961e0a01e99a116-1025922801
