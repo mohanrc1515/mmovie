@@ -19,6 +19,8 @@ https://rasinetworks.in/live/rasicinemahd/index.mpd
 https://rasinetworks.in/live/rasicomedyhd/index.mpd
 #EXTINF:-1 tvg-id="Rasi Lifestyle HD" tvg-logo="https://i.ibb.co/pr2wvtfQ/rasi-lifestyle-hd.png" group-title="Rasi Networks",Rasi Lifestyle HD
 https://rasinetworks.in/live/rasilifestylehd/index.mpd
+#EXTINF:-1, POLIMER NEWS 720
+https://live-cf-polimernews.dailyhunt.in/playlist_1824k.m3u8
 
 #EXTINF:-1, DD tamil hd
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_6.m3u8
